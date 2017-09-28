@@ -1,0 +1,17 @@
+*{
+    margin-bottom: 1%;
+}
+body{
+    background-color: lightslategray;
+}
+.myContainer{
+    width: 90%;
+    margin: 0 auto;
+}
+.header{
+    color:white;
+}
+.footer{
+    background-color: black;
+    color: white;
+}
