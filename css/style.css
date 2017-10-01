@@ -8,10 +8,21 @@ body{
     width: 90%;
     margin: 0 auto;
 }
-.header{
+header{
     color:white;
 }
-.footer{
+li{
+    padding: 1%;
+}
+.font-test1{
+    color: white;
+    font-weight: bold;
+}
+.jumbotron-test1{
+    padding: 0 !important;
     background-color: black;
+}
+.test1-footer{
+   background-color: black;
     color: white;
 }
